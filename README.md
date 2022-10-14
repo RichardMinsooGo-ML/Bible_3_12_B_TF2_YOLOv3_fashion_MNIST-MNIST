@@ -1,2 +1,2 @@
-# Bible_3_12_11_YOLOv3_workflow_MNIST
-https://wikidocs.net/176433
+# Bible_3_12_B_YOLOv3_workflow_fashion_MNIST+MNIST
+https://wikidocs.net/176435
